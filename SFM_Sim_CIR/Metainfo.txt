@@ -6,7 +6,7 @@ Description : 'SFM_SimCIR plots a simulated Cox/Ingersol/Ross process'
 
 Keywords : CIR, interest rate, process, stochastic, simulation
 
-Author: Daniel Traian Pele
+Author: Daniel Traian Pele, Andrei Theodor Ginavar
 
 Submitted : Fri, 22 March 2019
 
